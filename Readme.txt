@@ -10,3 +10,4 @@
     - Use command: pyuic5 -x Giaodien.ui -o Giaodien.py    
 # How to run program:
     - Use command: python main.py 
+    Link gg drive : https://drive.google.com/drive/folders/10a5lj7wx_mocMUwGJ_-1fNPQe8J2YWDM?usp=sharing
